@@ -1,0 +1,11 @@
+# Abaikan folder virtual environment & node_modules
+venv/
+env/
+node_modules/
+# Abaikan konfigurasi IDE VS Code & OS
+.vscode/
+.DS_Store
+Thumbs.db
+# Abaikan file log & temporary
+*.log
+*.tmp
